@@ -164,9 +164,6 @@ JAZZMIN_SETTINGS = {
     # Welcome text on the login screen
     "welcome_sign": "TIMETABLE APP",
 
-    # Copyright on the footer
-    "copyright": "Sameer +255675839840",
-
     # List of model admins to search from the search bar, search bar omitted if excluded
     # If you want to use a single search field you dont need to use a list, you can use a simple string
     "search_model": [ "app.TimeTable", "app.CourseName"],
